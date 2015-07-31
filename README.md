@@ -5,8 +5,9 @@ Organizador de arquivos em um diretório
 Depois de uma boa pesquisa no wikipedia, google, youtube e afins, geralmente guardamos tudo em um diretório, ou a cada novo download, colocar tudo no lugar certo.
 
 Uma coisa é rápida e ineficiente e a outra é eficiente mas nem um pouco rápida.
-Eu opto pela primeira mas tudo fica zoneado no memso lugar.
+Eu opto pela primeira mas tudo fica muito zoneado...completa bagunça.
 
 Mas meus problemas acabaram!!!
+8)
 Um script em shell que separe primeiro por extensão e depois por contexto me parece a saída.
 8)
